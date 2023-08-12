@@ -1,2 +1,2 @@
-# 3d
-A place to store 3D objects
+# AI Showcase
+A place to store my web assets for the AI Showcase application
